@@ -1,4 +1,4 @@
-# Akbar E-Commerce
+# Thashreef-marine-uae
 
 Production-oriented e-commerce platform foundation built with Next.js App Router, TypeScript, Tailwind CSS, Sequelize, MySQL, and Zod.
 
